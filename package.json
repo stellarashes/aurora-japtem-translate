@@ -1,0 +1,21 @@
+{
+  "name": "aurora-japtem-translate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-stellarashes:stellarashes/aurora-japtem-translate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.75.0",
+    "request-promise": "^4.1.1",
+    "ts-chassis": "git+ssh://git@bitbucket.org/stellarashes/ts-chassis.git",
+    "xml2js": "^0.4.17"
+  }
+}

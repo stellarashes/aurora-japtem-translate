@@ -1,0 +1,22 @@
+{
+  "name": "aurora-japtem-translate",
+  "dependencies": {
+    "body-parser": "registry:npm/body-parser#1.15.2+20160815132839",
+    "glob": "registry:npm/glob#6.0.0+20160723033700",
+    "mime": "registry:npm/mime#1.3.0+20160723033700",
+    "redis": "registry:npm/redis#2.6.0+20160901110043",
+    "sequelize": "registry:npm/sequelize#4.0.0-1+20160828072620"
+  },
+  "globalDependencies": {
+    "express": "registry:dt/express#4.0.0+20160708185218",
+    "express-serve-static-core": "registry:dt/express-serve-static-core#4.0.0+20160829034835",
+    "form-data": "registry:dt/form-data#0.0.0+20160724024111",
+    "lodash": "registry:dt/lodash#4.14.0+20160830145422",
+    "node": "registry:dt/node#6.0.0+20160830141956",
+    "q": "registry:dt/q#0.0.0+20160613154756",
+    "request": "registry:dt/request#0.0.0+20160726020908",
+    "request-promise": "registry:dt/request-promise#3.0.0+20160906190103",
+    "serve-static": "registry:dt/serve-static#0.0.0+20160606155157",
+    "xml2js": "registry:dt/xml2js#0.0.0+20160317120654"
+  }
+}
